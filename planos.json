@@ -1,0 +1,6 @@
+{
+    "usuarios": {
+        "915416127939690536": { "plano": "premium+", "memoria": 500 },
+        "123456789012345678": { "plano": "basico", "memoria": 100 }
+    }
+}
